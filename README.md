@@ -5,7 +5,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title></title>
+  <title>Studen</title>
 </head>
 
 <link rel="shortcut icon" href="http://courseweb.sliit.lk/theme/image.php/simplespace/theme/1489376202/favicon">
