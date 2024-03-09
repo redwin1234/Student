@@ -8,10 +8,7 @@
   <title>Studen</title>
 </head>
 
-<link rel="shortcut icon" href="http://courseweb.sliit.lk/theme/image.php/simplespace/theme/1489376202/favicon">
-						<meta name="keywords" content="moodle, CourseWeb: Log in to the site">
-							<!-- Connect with css file  -->
-						
+					
 
 	
 	
